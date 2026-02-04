@@ -1,4 +1,7 @@
-import './style.css'
+// Import the active theme (change in theme-config.js to switch themes)
+// Design 1: './themes/theme-1-maroon-gold.css' (Dark Maroon & Gold)
+// Design 2: './themes/theme-2-cream-terracotta.css' (Light Cream & Terracotta)
+import './themes/theme-2-cream-terracotta.css'
 
 // ===== Products Data - Based on Sri Lakshmi Venkateshwara's offerings =====
 // Image URLs will be updated with imgbb links later
